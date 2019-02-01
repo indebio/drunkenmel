@@ -66,7 +66,7 @@
     "witsec-white-label": "on",
     "seo-meta": "",
     "global-footer": "",
-    "witsec-form-subject": "",
+    "witsec-form-subject": "Mobirise Form",
     "witsec-language": "nl"
   },
   "pages": {
@@ -74,7 +74,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Holyshitshoes - linktree",
+        "meta_descr": "Drunken Mel - linktree - Instagram",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -100,7 +100,7 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section class=\"content4\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"https://www.drunkenmel.com/index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-drunken-mel-5-rechtermuis-1200x600.jpg\" width=\"1400\" alt=\"logo-drunkenmel\" title=\"logo-drunkenmel\"></a>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section class=\"content4\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/logo-drunken-mel-5-rechtermuis-1200x600.jpg\" width=\"1400\" alt=\"logo-drunkenmel\" title=\"logo-drunkenmel\">\n            </div>\n    </figure>\n</section>",
           "_cid": "qUmyUFHMzl",
           "_anchor": "image2-1",
           "_protectedParams": [],
