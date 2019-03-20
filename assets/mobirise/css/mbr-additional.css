@@ -787,6 +787,17 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #000000;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #000000;
+}
 .cid-qUmyUFHMzl {
   padding-top: 0px;
   padding-bottom: 0px;
