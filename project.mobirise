@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "linktree Drunken Mel",
+    "name": "linktree Drunken Mel 9 oktober",
     "currentPage": "index.html",
     "theme": {
       "name": "portfoliom4",
@@ -58,23 +58,26 @@
     "siteUrl": "",
     "versionFirst": "4.7.7",
     "uniqCompNum": 14,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsSwitcher": true,
+    "sitemapSwitcherAuto": true,
     "witsec-white-label": "on",
     "seo-meta": "",
     "global-footer": "",
     "witsec-form-subject": "Mobirise Form",
-    "witsec-language": "nl"
+    "witsec-language": "nl",
+    "": "on",
+    "sitemapSwitcher": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Drunken Mel - linktree - Instagram",
+        "title": "Drunken Mel Likeur website links van Instagram",
+        "meta_descr": "Drunken Mel - linktree - Show some hotlinks from Instagram.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
